@@ -206,7 +206,7 @@ p.demo_store {
 
 .woocommerce div.product span.price,.woocommerce div.product p.price,.woocommerce #content div.product span.price,.woocommerce #content div.product p.price,.woocommerce-page div.product span.price,.woocommerce-page div.product p.price,.woocommerce-page #content div.product span.price,.woocommerce-page #content div.product p.price
 	{
-	color: #85ad74;
+	color: black;
 	font-size: 1.25em
 }
 
@@ -228,7 +228,7 @@ p.demo_store {
 
 .woocommerce div.product .stock,.woocommerce #content div.product .stock,.woocommerce-page div.product .stock,.woocommerce-page #content div.product .stock
 	{
-	color: #85ad74
+	color: black
 }
 
 .woocommerce div.product .out-of-stock,.woocommerce #content div.product .out-of-stock,.woocommerce-page div.product .out-of-stock,.woocommerce-page #content div.product .out-of-stock
@@ -676,7 +676,7 @@ border: 2px solid #ACAFB4;
 
 .woocommerce ul.products li.product .price,.woocommerce-page ul.products li.product .price
 	{
-	color: #85ad74;
+	color: black;
 	display: block;
 	font-weight: normal;
 	margin-bottom: .5em
@@ -1675,7 +1675,7 @@ border: 2px solid #ACAFB4;
 
 .woocommerce .cart-collaterals .cart_totals .discount td,.woocommerce-page .cart-collaterals .cart_totals .discount td
 	{
-	color: #85ad74
+	color: black
 }
 
 .woocommerce .cart-collaterals .cart_totals tr td,.woocommerce .cart-collaterals .cart_totals tr th,.woocommerce-page .cart-collaterals .cart_totals tr td,.woocommerce-page .cart-collaterals .cart_totals tr th
