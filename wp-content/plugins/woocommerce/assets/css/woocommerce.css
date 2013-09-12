@@ -714,12 +714,12 @@ border: 2px solid #ACAFB4;
 .woocommerce .woocommerce-result-count,.woocommerce-page .woocommerce-result-count
 	{
 	float: left;
-	margin: 0 0 1em
+	margin: 1em;
 }
 
 .woocommerce .woocommerce-ordering,.woocommerce-page .woocommerce-ordering
 	{
-	margin: 0 0 1em;
+	margin: 1em;
 	float: right
 }
 
