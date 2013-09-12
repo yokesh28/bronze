@@ -879,6 +879,7 @@ div.nav-menu > ul {
 	line-height: 1;
 	padding: 15px 20px;
 	text-decoration: none;
+	text-transform: uppercase;
 }
 
 .nav-menu li:hover > a,
