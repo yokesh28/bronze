@@ -4,3 +4,4 @@
 /.project
 .settings/
 .buildpath
+/wp-config.php
