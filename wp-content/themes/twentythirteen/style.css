@@ -873,7 +873,7 @@ div.nav-menu > ul {
 }
 
 .nav-menu li a {
-	color: #141412;
+	color: #ffffff;
 	display: block;
 	font-size: 15px;
 	line-height: 1;
@@ -927,7 +927,7 @@ ul.nav-menu li:hover > ul,
 .nav-menu .current_page_ancestor > a,
 .nav-menu .current-menu-item > a,
 .nav-menu .current-menu-ancestor > a {
-	color: #ffffff;
+	color: #ffffff !important;
 	text-transform: uppercase;
 }
 
