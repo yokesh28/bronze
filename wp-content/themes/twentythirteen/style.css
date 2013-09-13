@@ -808,6 +808,7 @@ img.wp-smiley,
 
 .site-header {
 	position: relative;
+	background-size:100% 100%!important; 
 }
 
 .site-header .home-link {
@@ -3050,6 +3051,7 @@ footer.entry-meta {
 
 	.site-header {
 		background-image: none !important;
+	
 	}
 
 	.site-header .home-link {
